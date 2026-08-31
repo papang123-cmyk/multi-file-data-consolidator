@@ -1,0 +1,19 @@
+﻿source_file,name,email,age,salary,join_date,department
+messy_test.csv,Tom Green,tom.green@email.com,-3,36000,2026-01-17,IT
+messy_test.csv,Peter Adams,peter.adams@email.com,19,32000,2026-01-15,Sales
+messy_test.csv,Peter Adams,peter.adams@email.com,19,32000,2026-01-15,Sales
+messy_test.csv,Jane Doe,jane.doe@email.com,22,38000,05-01-2026,Marketing
+messy_test.csv,Olivia King,olivia.king@email.com,23,40000,2026-01-20,Marketing
+messy_test.csv,Emily Stone,emily.stone@email.com,24,42500,10/01/2026,Sales
+messy_test.csv,John Smith,john.smith@email.com,25,45000,2026-01-05,Sales
+messy_test.csv,John Smith,JOHN.SMITH@EMAIL.COM,25,,2026-01-05,Sales
+messy_test.csv,Lisa Wong,lisa.wong@email.com,26,44000,2026-01-14,HR
+messy_test.csv,Sarah Lee,,27,41000,2026.01.09,HR
+messy_test.csv,Anna Roy,anna.roy@email.com,28,48000,2026-01-16,Finance
+messy_test.csv,Maria Garcia,maria.garcia@email.com,29,51000,2026-01-12,Marketing
+messy_test.csv,Nina Patel,nina.patel@email.com,30,55000,not a date,HR
+messy_test.csv,Mike Brown,mike.brown@email,31,-52000,"January 8, 2026",IT
+messy_test.csv,Chris Hall,chris.hall@email.com,33,,2026-01-19,Sales
+messy_test.csv,David Chen,david.chen@email.com,35,60000,2026-13-01,Finance
+messy_test.csv,Alex Kumar,alex.kumar@email.com,,39000,2026-01-10,Finance
+messy_test.csv,Robert Wilson,robert.wilson@email.com,,47000,2026-01-11,IT

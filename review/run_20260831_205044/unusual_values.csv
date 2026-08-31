@@ -1,0 +1,3 @@
+﻿file,row,column,value,issue
+messy_test.csv,16,age,-3,Negative value
+messy_test.csv,5,salary,-52000,Negative value

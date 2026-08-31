@@ -1,0 +1,41 @@
+======================================================================
+MULTI-FILE DATA CONSOLIDATOR REPORT
+======================================================================
+Run time: 2026-08-31 21:00:19.825325
+Files processed: 1
+Files failed: 0
+
+PROCESSED FILES
+----------------------------------------------------------------------
+✓ messy_test.csv
+
+FILE ANALYSIS
+----------------------------------------------------------------------
+
+File: messy_test.csv
+Rows: 18
+Columns: 6
+Duplicates: 2
+Missing values: 5
+Unusual values: 2
+Invalid emails: 1
+
+COLUMN COMPARISON
+----------------------------------------------------------------------
+
+messy_test.csv
+Columns: age, department, email, join_date, name, salary
+
+REVIEW ITEMS
+----------------------------------------------------------------------
+Missing-value records: 3
+Unusual-value records: 2
+Invalid-email records: 1
+
+Original input files were not modified.
+Backups were created for successfully processed files.
+
+PROCESSING STATUS
+----------------------------------------------------------------------
+COMPLETED SUCCESSFULLY
+======================================================================

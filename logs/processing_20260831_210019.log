@@ -1,0 +1,5 @@
+2026-08-31 21:00:19,771 | INFO | Starting Multi-File Data Consolidator.
+2026-08-31 21:00:19,772 | INFO | Found 1 supported file(s).
+2026-08-31 21:00:19,773 | INFO | Processing messy_test.csv
+2026-08-31 21:00:19,803 | INFO | Comparing column structures.
+2026-08-31 21:00:19,815 | INFO | Combining datasets.

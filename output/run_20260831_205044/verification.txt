@@ -1,0 +1,4 @@
+Output file exists: PASS
+Rows generated: 18
+Columns generated: 7
+Files processed: 1

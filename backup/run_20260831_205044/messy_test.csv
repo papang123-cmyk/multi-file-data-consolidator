@@ -1,0 +1,19 @@
+Name , EMAIL,Age,Salary ,Join Date,Department
+  john smith ,JOHN.SMITH@EMAIL.COM ,25,"₹45,000",2026/01/05,Sales
+Jane   Doe,jane.doe@email.com, 22 ,38000,05-01-2026,Marketing
+  JOHN SMITH,john.smith@email.com,25,45000,2026-01-05,Sales
+Mike Brown ,mike.brown@email,31,-52000,"January 8, 2026",IT
+Sarah  Lee,,27,41000,2026.01.09,HR
+ Alex Kumar,alex.kumar@email.com,twenty,39000,2026-01-10,Finance
+emily stone ,emily.stone@email.com,24," 42,500 ",10/01/2026,Sales
+Robert Wilson,robert.wilson@email.com,,47000,2026-01-11,IT
+  maria garcia  , maria.garcia@email.com,29,"51,000",2026-01-12,Marketing
+David Chen,david.chen@email.com,35,60000,2026-13-01,Finance
+Lisa Wong,lisa.wong@email.com,26,44000,2026-01-14, HR 
+Peter Adams,peter.adams@email.com,19,32000,2026-01-15,Sales
+Peter Adams,peter.adams@email.com,19,32000,2026-01-15,Sales
+  anna roy,anna.roy@email.com,28,48000,2026-01-16,Finance
+Tom Green,tom.green@email.com,-3,36000,2026-01-17,IT
+Nina Patel,nina.patel@email.com,30,55000,not a date,HR
+Chris Hall,chris.hall@email.com,33,not available,2026-01-19,Sales
+  Olivia King  ,olivia.king@email.com,23,40000,2026-01-20,Marketing
