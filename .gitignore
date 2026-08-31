@@ -1,0 +1,18 @@
+# Generated runtime files
+backup/
+logs/
+output/
+review/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Windows files
+desktop.ini
+Thumbs.db
